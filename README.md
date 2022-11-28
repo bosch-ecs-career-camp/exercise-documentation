@@ -4,5 +4,5 @@
 ## 1. Run:
 
 ```sh
-npx create-docusaurus@latest my-website classic
+npx create-docusaurus@latest 'replace_with_your_custom_name' classic
 ```
